@@ -1,6 +1,6 @@
-# customMask
+# Custom Mask
 
-`customMask` é uma engine de máscaras de texto escrita em **TypeScript**, projetada para ser simples, flexível e extensível.  
+**Custom Mask** é uma engine de máscaras de texto escrita em **TypeScript**, projetada para ser simples, flexível e extensível.  
 Ela resolve casos de uso comuns de formatação de entrada — como telefones, documentos, valores monetários e identificadores alfanuméricos — sem adicionar dependências externas.
 
 ---
